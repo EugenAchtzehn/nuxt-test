@@ -1,3 +1,5 @@
 <template>
-  <div>created.vue</div>
+  <div>
+    <h2>created.vue</h2>
+  </div>
 </template>
