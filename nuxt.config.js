@@ -26,6 +26,8 @@ export default {
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
+  // 助教建議不要開啟自動 import 功能
+  // components: false,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
