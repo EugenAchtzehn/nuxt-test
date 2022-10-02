@@ -2,7 +2,7 @@
   <div>
     <h1 class="text-2xl text-center font-bold">This is the user page.</h1>
     <div class="badge">Testing</div>
-    <p>
+    <p class="bg-red-300">
       <a
         target="_blank"
         href="https://tailwindcss.nuxtjs.org/getting-started/setup"
